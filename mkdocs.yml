@@ -1,0 +1,31 @@
+site_name: SkiMino Docs
+theme:
+  language: zh
+  name: material
+  highlightjs: true
+  palette:
+    primary: blue
+    accent: deep purple
+  favicon: https://drive.datas.gq/drive1/logo/smail_logo@4x.png
+  logo: img/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.share
+    - search.suggest
+repo_url: https://github.com/SkiMinoTeam/
+repo_name: SkiMino-GitHub
+extra_css:
+  - css/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/SkiMinoTeam/
+copyright: Copyright &copy; 2021 SkiMino.
+plugins:
+  - tags
+  - search
