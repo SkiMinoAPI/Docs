@@ -16,7 +16,14 @@ Content-Type:application/mp3;
 ```
 Json:
 ```json
-{"status":200,"data":{"songid":"(SongID)","songurl":"(SongUrl)","songlyric":"(SongLyric)"}}
+{
+    "status": 200,
+    "data": {
+        "songid": "(SongID)",
+        "songurl": "(SongUrl)",
+        "songlyric": "(SongLyric)"
+    }
+}
 ```
 
 ## 参数
