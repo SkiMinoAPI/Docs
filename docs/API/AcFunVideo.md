@@ -12,7 +12,17 @@ AcFun视频直链解析(非番剧)。
 
 ## 返回数据
 ```json
-{"status":200,"data":{"videoid":"(VideoID)","author":{"name":"(Name)","id":"(ID)"},"videourl":"(Url)?pkey=(pkey)"}}
+{
+    "status": 200,
+    "data" :{
+        "videoid": "(VideoID)",
+        "author": {
+            "name": "(Name)",
+            "id":"(ID)"
+        },
+        "videourl": "(Url)?pkey=(pkey)"
+    }
+}
 ```
 
 ## 参数

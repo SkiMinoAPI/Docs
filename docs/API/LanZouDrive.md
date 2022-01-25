@@ -16,7 +16,15 @@ Content-Type:文件类型;
 ```
 Json:
 ```json
-{"status":200,"data":{"name":"(FileName)","author":"(Author)","size":"(FileSize)","url":"(FileUrl)"}}
+{
+    "status": 200,
+    "data": {
+        "name": "(FileName)",
+        "author": "(Author)",
+        "size": "(FileSize)",
+        "url": "(FileUrl)"
+    }
+}
 ```
 
 ## 参数

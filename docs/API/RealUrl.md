@@ -11,7 +11,13 @@
 
 ## 返回数据
 ```json
-{"shorturl":"(ShoutUrl)","realurl":"(RealUrl)"}
+{
+    "status": 200,
+    "data": {
+        "shorturl": "(ShortUrl)",
+        "realurl": "(RealUrl)"
+    }
+}
 ```
 
 ## 参数

@@ -17,6 +17,8 @@ Content-Type:image/jpeg;
 ## 参数
 | 参数 | 必填 | 类型 | 说明 | 可填内容 |
 | --- | --- | --- | --- | --- |
-| from | 否 | string | 从何处引入。分别可以填ixiaowai（小歪API）、dmoe（樱花API）、iw233（MirlKoi），不填则从SkiMino的储存库中获取 | ixiaowai , dmoe , iw233 |
+| from | 否 | string | 从何处引入。分别可以填ixiaowai（小歪API）、dmoe（樱花API），不填则从SkiMino的储存库中获取 | ixiaowai , dmoe |
+| size | 否 | string | 图像大小，默认large | large , mw1024 , mw690 , bmiddle , small , thumb180 , thumbnail , square |
+| json | 否 | isset | 请求json数据 |  |
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3270219743311431" crossorigin="anonymous"></script>

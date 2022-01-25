@@ -11,7 +11,12 @@
 
 ## 返回数据
 ```json
-{"status":200,"data":{"url":"(Url)"}}
+{
+    "status": 200,
+    "data": {
+        "url":"(Url)"
+    }
+}
 ```
 
 ## 参数

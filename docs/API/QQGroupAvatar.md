@@ -16,7 +16,14 @@ Content-Type:image/jpeg;
 ```
 Json: 
 ```json
-{"qqgcode":"(QQGroupCode)","size":(Size),"avatar":"https:\/\/p.qlogo.cn\/gh\/(QQGroupCode)\/(QQGropuCode)\/(Size)"}
+{
+    "status": 200,
+    "data": {
+        "qqgcode": "(QQGroupCode)",
+        "size": (Size),
+        "url": "(Url)"
+    }
+}
 ```
 
 ## 参数

@@ -11,7 +11,25 @@
 
 ## 返回数据 
 ```json
-{"status":200,"data":{"user":{"idname":"(IDName)","name":"(Name)","id":(ID),"url":"(Url)"},"avatar":"(AvatarUrl)","public_repos":(PublicRepos),"followers":(Followers),"following":(Following),"time":{"created_at":"(CreatedTime)","updated_at":"(UpdatedTime)"}}}
+{
+    "status": 200,
+    "data": {
+        "user": {
+            "idname": "(IDName)",
+            "name": "(Name)",
+            "id": (ID),
+            "url": "(Url)"
+        },
+        "avatar": "(AvatarUrl)",
+        "public_repos": (PublicRepos),
+        "followers": (Followers),
+        "following": (Following),
+        "time": {
+            "created_at": "(CreatedTime)",
+            "updated_at": "(UpdatedTime)"
+        }
+    }
+}
 ```
 
 ## 参数

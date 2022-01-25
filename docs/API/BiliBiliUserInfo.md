@@ -11,7 +11,74 @@
 
 ## 返回数据
 ```json
-{"status":200,"data":{"uid":(uid),"name":"(Name)","cover":"(Cover)","sex":"(Sex)","birthday":"(Birthday)","level":[(Level),(Type)],"topcover":"(TopCover)","introduction":"(Introduction)","vip":{"type":(Type),"due_date":(DueDate),"label":{"text":"(Text)","label_theme":"(Theme)","text_color":"(Color)","bg_style":(Style),"bg_color":"(Color)","border_color":"(Color)"},"nickname_color":"(Color)","role":(Role),"vipicon":"(Icon)"},"fans":{"badge":(Badge),"medal":{"name":(MedalName),"show":(Show),"wear":(Wear)},"follower":(Follower),"following":(Following),"black":(Black)},"work":{"quantity":(Quantity),"submission":(Submission),"cinema":(Cinema),"article":(Article),"playlist":(PlayList),"photoalbum":(PhotoAlbum),"audio":(Audio),"pugv":(Pugv),"season_num":(SeasonNum)},"official":{"role":(Role),"title":"(Title","honourinfo":{"pendant":"(Pendant)","nameplate":"(NamePlate)"}},"live":{"title":"(Title)","url":"(LiveUrl)","cover":"(LiveCover)","online":(OnLineTime),"id":(LiveID)}}}
+{
+    "status": 200,
+    "data": {
+        "uid": (uid),
+        "name": "(Name)",
+        "cover": "(Cover)",
+        "sex": "(Sex)",
+        "birthday": "(Birthday)",
+        "level" :[
+            (Level),
+            (Type)
+        ],
+        "topcover": "(TopCover)",
+        "introduction": "(Introduction)",
+        "vip": {
+            "type":(Type),
+            "due_date": (DueDate),
+            "label": {
+                "text": "(Text)",
+                "label_theme": "(Theme)",
+                "text_color": "(Color)",
+                "bg_style": (Style),
+                "bg_color": "(Color)",
+                "border_color": "(Color)"
+            },
+            "nickname_color": "(Color)",
+            "role": (Role),
+            "vipicon": "(Icon)"
+        },
+        "fans": {
+            "badge":(Badge),
+            "medal": {
+                "name": (MedalName),
+                "show": (Show),
+                "wear": (Wear)
+            },
+            "follower": (Follower),
+            "following": (Following),
+            "black": (Black)
+        },
+        "work": {
+            "quantity": (Quantity),
+            "submission": (Submission),
+            "cinema": (Cinema),
+            "article": (Article),
+            "playlist": (PlayList),
+            "photoalbum": (PhotoAlbum),
+            "audio": (Audio),
+            "pugv": (Pugv),
+            "season_num": (SeasonNum)
+        },
+        "official": {
+            "role": (Role),
+            "title": "(Title)",
+            "honourinfo": {
+                "pendant": "(Pendant)",
+                "nameplate": "(NamePlate)"
+            }
+        },
+        "live": {
+            "title":"(Title)",
+            "url": "(LiveUrl)",
+            "cover": "(LiveCover)",
+            "online": (OnLineTime),
+            "id": (LiveID)
+        }
+    }
+}
 ```
 
 ## 参数

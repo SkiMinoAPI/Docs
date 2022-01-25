@@ -16,7 +16,20 @@ Content-Type:image/jpeg;
 ```
 Json: 
 ```json
-{"qqcode":"(QQCode)","size":(Size),"avatars":{"t0":"https:\/\/q.qlogo.cn\/headimg_dl?img_type=jpg&dst_uin=(QQCode)&spec=(Size)","t1":"https:\/\/q1.qlogo.cn\/g?b=qq&nk=(QQCode)&s=(Size)","t2":"https:\/\/q2.qlogo.cn\/headimg_dl?dst_uin=(QQCode)&spec=(Size)","t3":"https:\/\/q4.qlogo.cn\/g?b=qq&nk=(QQCode)&s=(Size)"}}
+{
+    "status": 200,
+    "data": {
+        "qqcode": "(QQCode)",
+        "size": (Size),
+        "avatars": {
+            "t0": "(Url0)",
+            "t1": "(Url1)",
+            "t2": "(Url2)",
+            "t3": "(Url3)",
+            "t4": "(Url4)"
+        }
+    }
+}
 ```
 
 ## 参数

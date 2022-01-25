@@ -16,7 +16,13 @@ Content-Type:application/aac;
 ```
 Json:
 ```json
-{"status":200,"data":{"songid":"(SongID)","songurl":"(SongUrl)"}}
+{
+    "status": 200,
+    "data": {
+        "songid": "(SongID)",
+        "songurl": "(SongUrl)"
+    }
+}
 ```
 
 ## 参数

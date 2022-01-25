@@ -13,26 +13,25 @@
 Defult:
 ```json
 {
-    "status": "OK",
-    "platform": null,
-    "motd": {
-        "ingame": "(Motd)"
-    },
-    "host": {
-        "host": "(Host)",
-        "port": "(port)"
-    },
-    "players": {
-        "max": (MaxPlayers),
-        "online": (OnlinePlayers)
-    },
-    "version": {
-        "version": (Version),
-        "protocol": (VersionCode)
-    },
-    "queryinfo": {
-        "agreement": "Ping",
-        "processed": "(QueryPing)"
+    "status": 200,
+    "data": {
+        "icon": "(Base64Icon)",
+        "motd": "(Motd)",
+        "server": {
+            "host": "(Host)",
+            "port":"(Port)"
+        },
+        "players": {
+            "max": 200000,
+            "online": 41514
+        },
+        "version": {
+            "version": null,
+            "protocol": 47
+        },
+        "queryinfo": {
+            "Ping":"146.2ms"
+        }
     }
 }
 ```
@@ -46,9 +45,5 @@ Content-Type:image/jpeg;
 | --- | --- | --- | --- | --- |
 | host | 是 | string | 服务器域名/IP | * |
 | port | 是 | string | 服务器端口 | * |
-| image | 否 | isset | 请求图像 |  |
-| sn | 否 | string | 在图像上添加文字，仅请求图像有效 | * |
-| theme | 否 | string | 选择一个主题，仅请求图像有效 | dark , light |
-| font | 否 | string | 为卡片文字选择外部字体，请使用 :enand: 替代字符 & | * |
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3270219743311431" crossorigin="anonymous"></script>

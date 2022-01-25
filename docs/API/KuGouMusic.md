@@ -16,7 +16,20 @@ Content-Type:application/mp3;
 ```
 Json:
 ```json
-{"status":200,"data":{"songhash":"(SongHash)","songid":(SongID),"fileName":"(FileName)","songName":"(SongName)","fileSize":(FileSize),"songurl":{"defult":"(DefultUrl)","backup":"(BackupUrl)"}}}
+{
+    "status": 200,
+    "data": {
+        "songhash": "(SongHash)",
+        "songid" :(SongID),
+        "fileName": "(FileName)",
+        "songName": "(SongName)",
+        "fileSize": (FileSize),
+        "songurl": {
+            "defult": "(DefultUrl)",
+            "backup":"(BackupUrl)"
+        }
+    }
+}
 ```
 
 ## 参数
