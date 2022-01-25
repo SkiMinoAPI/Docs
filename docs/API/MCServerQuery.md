@@ -10,7 +10,6 @@
 获取Minecraft服务器信息。
 
 ## 返回数据
-Defult:
 ```json
 {
     "status": 200,
@@ -34,10 +33,6 @@ Defult:
         }
     }
 }
-```
-Image:
-```
-Content-Type:image/jpeg;
 ```
 
 ## 参数
