@@ -21,15 +21,15 @@
             "port":"(Port)"
         },
         "players": {
-            "max": 200000,
-            "online": 41514
+            "max": (MaxPlayers),
+            "online": (OnlinePlayers)
         },
         "version": {
-            "version": null,
-            "protocol": 47
+            "version": (Version),
+            "protocol": (VersionCode)
         },
         "queryinfo": {
-            "Ping":"146.2ms"
+            "Ping":"(Ping)"
         }
     }
 }
