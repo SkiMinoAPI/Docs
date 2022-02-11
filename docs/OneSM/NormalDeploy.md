@@ -12,7 +12,7 @@ Apache
 PHP(>=7.2)
 
 ## 下载OneSM
-前往 <a href="https://onesm.skimino.cf/">Releases</a>下载OneSM的zip包。
+前往 <a href="https://onesm.smilo.ga/">Releases</a>下载OneSM的zip包。
 
 ## 部署
 ### 前置工作
