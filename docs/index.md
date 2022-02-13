@@ -1,5 +1,5 @@
 # 欢迎来到 SkiMino Docs!
-我们在此为我们的 Tools,API 及其他内容写了文档以便使用。  
+我们在此为我们的项目写了文档以便使用。  
 SkiMino 是一个开源项目，使用 [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) 协议开源。如果你想支持此项目，不妨赞助一下 SkiMino。  
 <a href="https://github.com/XMSMApi/" target="_blank"><img style="height:32px;width:32px;margin:5px" src="/icons/github.ico" /></a><a href="https://afdian.net/@HuaHuo-CN" target="_blank"><img style="height:32px;width:32px;margin:5px" src="/icons/afdian.ico" /></a><a href="https://kaihei.co/Wyykam" target="_blank"><img style="height:32px;width:32px;margin:5px" src="/icons/kaiheila.ico" /></a>
 
