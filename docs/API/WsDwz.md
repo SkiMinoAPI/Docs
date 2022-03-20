@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://wsdwz.ga/api.php
+请求地址: http://wsdwz.ga/api.php
 
 # WsDwz短链接生成
 生成wsdwz.ga短链接API接口版。
