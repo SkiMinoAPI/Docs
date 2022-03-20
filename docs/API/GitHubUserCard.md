@@ -4,10 +4,10 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/GitHubUserCard
+请求地址: https://fs.lolimapis.ml/GitHubUserCard/
 
 # GitHub签名档
-生成一张GitHub签名档。生成的内容为SVG图像。
+生成一张GitHub签名档。
 
 ## 返回数据
 ```

@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/QRCode
+请求地址: https://fs.lolimapis.ml/QRCode/
 
 # QRCode生成
 通过Url生成相应的QRCode。

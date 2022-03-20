@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/BingImage
+请求地址: https://fs.lolimapis.ml/BingImage/
 
 # 每日Bing图获取
 获取每日Bing图。

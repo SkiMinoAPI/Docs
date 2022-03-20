@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/163Music
+请求地址: https://fs.lolimapis.ml/163Music/
 
 # 网易云音乐解析
 网易云音乐解析(部分VIP歌曲解析异常)。

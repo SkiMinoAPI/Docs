@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/RealUrl
+请求地址: https://fs.lolimapis.ml/RealUrl/
 
 # 短链接还原
 还原短链接指向的真实Url。

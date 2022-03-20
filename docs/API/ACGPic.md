@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/ACGPic
+请求地址: https://fs.lolimapis.ml/ACGPic/
 
 # 随机二次元图
 随机输出一张二次元图。

@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/QQUserAvatar
+请求地址: https://fs.lolimapis.ml/QQUserAvatar/
 
 # QQ头像获取
 获取某个QQ用户的头像。

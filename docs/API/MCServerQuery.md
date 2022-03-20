@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/MCServerQuery
+请求地址: https://fs.lolimapis.ml/MCServerQuery/
 
 # Minecraft服务器信息查询
 获取Minecraft服务器信息。

@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/LanZouDrive
+请求地址: https://fs.lolimapis.ml/LanZouDrive/
 
 # 蓝奏云直链解析
 获取蓝奏云直链。

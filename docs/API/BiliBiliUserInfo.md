@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/BiliBiliUserInfo
+请求地址: https://fs.lolimapis.ml/BiliBiliUserInfo/
 
 # BiliBili用户信息获取
 获取某位BiliBili用户的信息。

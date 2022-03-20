@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/GitHubUserInfo
+请求地址: https://fs.lolimapis.ml/GitHubUserInfo/
 
 # GitHub用户信息获取
 获取某个GitHub用户的信息。

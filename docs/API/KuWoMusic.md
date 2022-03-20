@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/KuWoMusic
+请求地址: https://fs.lolimapis.ml/KuWoMusic/
 
 # 酷我音乐解析
 酷我音乐解析(含VIP歌曲)。

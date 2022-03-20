@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/CatFoxGirl
+请求地址: https://fs.lolimapis.ml/CatFoxGirl/
 
 # 随机猫娘/狐狸图
 随机输出一张猫娘/狐狸图。

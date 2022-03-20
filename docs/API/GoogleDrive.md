@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/GoogleDrive
+请求地址: https://fs.lolimapis.ml/GoogleDrive/
 
 # GoogleDrive直链解析
 获取GoogleDrive直链。

@@ -4,7 +4,7 @@
         - API
 ---
 <span class="http">HTTP GET/POST</span>  
-请求地址: https://api.datas.gq/KuGouMusic
+请求地址: https://fs.lolimapis.ml/KuGouMusic/
 
 # 酷狗音乐解析
 酷狗音乐解析(不含VIP歌曲)。
